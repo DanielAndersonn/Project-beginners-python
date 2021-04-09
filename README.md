@@ -1,2 +1,2 @@
 # Project-beginners-python
-Im create the repository , for help  beginner in python , polishing your skills 
+Im create the repository , for help  beginners in python , polishing your skills 
